@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>address1</key>
+	<string>122,</string>
+	<key>address2</key>
+	<string>x road</string>
+	<key>state</key>
+	<string>telangana</string>
+	<key>city</key>
+	<string>hyderabad</string>
+	<key>country</key>
+	<string>India</string>
+	<key>zipcode</key>
+	<string>627501</string>
+	<key>productname</key>
+	<string>Book</string>
+	<key>brand</key>
+	<string>ITO</string>
+	<key>weight</key>
+	<string>500g</string>
+	<key>color</key>
+	<string>red</string>
+	<key>description</key>
+	<string>good</string>
+	<key>qty</key>
+	<string>2</string>
+</dict>
+</plist>
